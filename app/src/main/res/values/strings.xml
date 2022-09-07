@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="button_main">Send</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Pesan Diterima tang</string>
+    <string name="editText_main">Masukkan Pesan Disini Yaa</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Ketik Disini</string>
+    <string name="text_header_reply">Pesan Udah Masuk tang</string>
+    <string name="main_activity">Main Activity Bintang</string>
+</resources>
